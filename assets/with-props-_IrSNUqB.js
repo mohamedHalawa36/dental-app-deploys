@@ -1,1 +1,0 @@
-import{z as t,A as e,B as o,C as p,r as s,D as u}from"./chunk-SYFQ2XB5-njiB-zGT.js";function i(a){return function(){const r={params:t(),loaderData:e(),actionData:o(),matches:p()};return s.createElement(a,r)}}function m(a){return function(){const r={params:t(),loaderData:e(),actionData:o(),error:u()};return s.createElement(a,r)}}export{m as a,i as w};
