@@ -1,0 +1,1 @@
+import{w as r}from"./with-props-_IrSNUqB.js";import{l as o}from"./chunk-SYFQ2XB5-njiB-zGT.js";import{T as t}from"./sonner-8lL5rIcL.js";import"./index-DTcR2HV0.js";import"./index-yUhyWXqZ.js";const a=r(function(){return o.jsxs("div",{children:["Doctors",o.jsx(t,{})]})});export{a as default};

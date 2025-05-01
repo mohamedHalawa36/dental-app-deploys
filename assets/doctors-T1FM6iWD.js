@@ -1,1 +1,0 @@
-import{w as r}from"./index-BxltvMwo.js";import{n as o}from"./chunk-SYFQ2XB5-D59epDAS.js";import{T as t}from"./sonner-B5MIckf6.js";const e=r(function(){return o.jsxs("div",{children:["Doctors",o.jsx(t,{})]})});export{e as default};

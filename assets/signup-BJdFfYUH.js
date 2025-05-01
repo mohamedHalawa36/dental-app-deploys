@@ -1,0 +1,1 @@
+import{w as t}from"./with-props-_IrSNUqB.js";import{l as s}from"./chunk-SYFQ2XB5-njiB-zGT.js";const o=t(function(){return s.jsx("div",{className:" bg-gradient-to-b to-fuchsia-200/40 from-cyan-200/40 to-70% h-full w-full flex justify-center items-center",children:s.jsx("div",{className:"size-48 bg-primary/90 rounded-2xl"})})});export{o as default};
