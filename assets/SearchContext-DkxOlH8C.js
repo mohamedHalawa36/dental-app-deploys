@@ -1,1 +1,0 @@
-import{r as e,n as s}from"./chunk-SYFQ2XB5-CAR-RVZs.js";const o=e.createContext({search:"",setSearch:()=>{}});function n({children:r}){const[t,a]=e.useState("");return s.jsx(o.Provider,{value:{search:t,setSearch:a},children:r})}export{o as S,n as a};
