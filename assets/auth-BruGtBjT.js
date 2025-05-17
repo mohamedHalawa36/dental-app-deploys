@@ -1,0 +1,1 @@
+import{t as o}from"./index-BmCVwK9D.js";import{s as t,A as e,j as n}from"./Input-BYyMbTMS.js";const c=async r=>{const{data:a,error:s}=await t.auth.signInWithPassword(r);if(s)throw new e(s.message,s.status,s.code);return a},u=async()=>{const{error:r}=await t.auth.signOut();r&&o.error(n)};export{u as l,c as s};
