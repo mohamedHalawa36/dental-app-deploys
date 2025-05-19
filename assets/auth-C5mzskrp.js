@@ -1,0 +1,1 @@
+import{j as t,E as o,t as e}from"./supabase-D_SHXGLp.js";import{h as n}from"./Input-CNcMBnb0.js";const c=async r=>{const{data:a,error:s}=await t.auth.signInWithPassword(r);if(s)throw new o(s.message,s.status,s.code);return a},u=async()=>{const{error:r}=await t.auth.signOut();r&&e.error(n)};export{u as l,c as s};

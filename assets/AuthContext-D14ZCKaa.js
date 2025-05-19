@@ -1,0 +1,1 @@
+import{r as e,n as c}from"./chunk-SYFQ2XB5-BeKHOpyI.js";const t=e.createContext({user:null,setUser:()=>{},isChecking:!1,setIsChecking:()=>{}}),i=({children:r})=>{const[s,n]=e.useState(null),[o,u]=e.useState(!0);return console.log(s),c.jsx(t.Provider,{value:{user:s,setUser:n,isChecking:o,setIsChecking:u},children:r})},l=()=>e.useContext(t);export{i as A,l as u};
