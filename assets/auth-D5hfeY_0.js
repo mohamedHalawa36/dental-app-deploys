@@ -1,0 +1,1 @@
+import{k as t,E as o,t as e}from"./supabase-ze08hsKw.js";import{h as n}from"./Input-Bd1D6KCw.js";const c=async r=>{const{data:a,error:s}=await t.auth.signInWithPassword(r);if(s)throw new o(s.message,s.status,s.code);return a},u=async()=>{const{error:r}=await t.auth.signOut();r&&e.error(n)};export{u as l,c as s};
