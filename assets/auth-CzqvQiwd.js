@@ -1,0 +1,1 @@
+import{j as t,H as o,t as n,D as i}from"./supabase-DFgKEEaP.js";const c=async s=>await t.from("profiles").select().eq("id",s).single(),u=async s=>{const{data:a,error:r}=await t.auth.signInWithPassword(s);if(r)throw new o(r.message,r.status,r.code);{const{user:{id:e}}=a;return await c(e)}},l=async()=>{const{error:s}=await t.auth.signOut();s&&n.error(i)};export{c as g,l,u as s};
