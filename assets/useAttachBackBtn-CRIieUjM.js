@@ -1,0 +1,1 @@
+import{v as r,r as i}from"./chunk-PVWAREVJ-chYXeG9N.js";function c(t,n){const o=r();i.useEffect(()=>{const e=s=>{s.preventDefault();const a=window.history.length>0;t({canGoBack:a})};return window.addEventListener("popstate",e),()=>{window.removeEventListener("popstate",e)}},[t,o,...n])}export{c as u};
