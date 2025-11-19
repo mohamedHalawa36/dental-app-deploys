@@ -1,4 +1,4 @@
-import{r as P,p as R}from"./chunk-PVWAREVJ-DbUQBqSc.js";import{c as F}from"./QueryClientProvider-B0e4pmks.js";import{C as se}from"./ChevronLeft-DQqe5Vbc.js";import{B as z}from"./button-D5cQVpE8.js";/**
+import{r as P,p as R}from"./chunk-PVWAREVJ-DbUQBqSc.js";import{c as F}from"./QueryClientProvider-B0e4pmks.js";import{C as se}from"./ChevronLeft-DQqe5Vbc.js";import{B as z}from"./button-BX8rGgMC.js";/**
    * table-core
    *
    * Copyright (c) TanStack
