@@ -1,1 +1,0 @@
-import{r as e}from"./chunk-PVWAREVJ-DbUQBqSc.js";import{a as o}from"./PageContext-DmRTTEtK.js";function a(){const t=e.useContext(o);if(!t)throw new Error("Can't use page context outside of page provider");return t}export{a as u};
